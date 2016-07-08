@@ -1,0 +1,41 @@
+.navbar{
+    padding:1px;
+    margin:0px;
+    background-color:#00BFFF;
+}
+.mybody{
+    height:550px;
+    width:600px;
+    float:left;
+    background-color:#0B3861;
+    margin:0px 350px 0px 350px;
+    
+    
+}
+.mybody .form-horizontal{
+    width:550px;
+    margin:30px 25px 30px 25px;
+    padding:0px;
+}
+.mybody .form-horizontal label{
+    color:#FFFFFF;
+    font:bold 13px verdana;
+}
+form .form-control{
+    
+}
+.container{
+    clear:both;
+    width:100%;
+    height:70px;
+    background-color:#424242;
+} 
+
+.container footer{
+    height:30px;
+    margin:20px;
+    padding:4px;
+    text-align:center;
+    color:#FFFFFF;
+    font:auto 18px arial, verdana;
+}
